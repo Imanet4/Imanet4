@@ -10,10 +10,20 @@ My ADHD-brain thrives here. Constant learning. Endless problem-solving.
 ---
 
 ### 🔧 Tech I'm Working With
-- **Frontend:** React, JavaScript, HTML, CSS, Tailwind, Bootstrap  
-- **Backend:** Node.js, Express.js, REST APIs  
-- **Database:** MongoDB  
-- **Tools:** Git, GitHub, Figma, Canva  
+
+<p align="center">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" title="JavaScript"/></a>
+  <a href="https://reactjs.org/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" title="React"/></a>
+  <a href="https://nodejs.org/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" title="Node.js"/></a>
+  <a href="https://expressjs.com/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" title="Express"/></a>
+  <a href="https://www.mongodb.com/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" title="MongoDB"/></a>
+  <a href="https://redux.js.org/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" width="36" title="Redux"/></a>
+  <a href="https://tailwindcss.com/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" title="Tailwind"/></a>
+  <a href="https://sass-lang.com/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" title="Sass"/></a>
+  <a href="https://getbootstrap.com/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" title="Bootstrap"/></a>
+  <a href="https://code.visualstudio.com/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" width="36" title="VS Code"/></a>
+  <a href="https://www.figma.com/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" title="Figma"/></a>
+</p>
 
 ---
 
@@ -32,7 +42,7 @@ My ADHD-brain thrives here. Constant learning. Endless problem-solving.
 ---
 
 ### 🤝 Let's Connect
-- [LinkedIn](https://www.linkedin.com/in/...) (insert your link)
-- [Email](mailto:your@email.com) (optional)
+- [LinkedIn](https://www.linkedin.com/in/imane-ta%C3%AFfour-264080374/)
+- [Email](itaifour04@gmail.com)
 
 Always open to chat with other devs, founders, or mentors!
