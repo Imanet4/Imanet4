@@ -37,7 +37,16 @@ My ADHD-brain thrives here. Constant learning. Endless problem-solving.
 ### 🎯 Goals
 - Land a dev internship or junior role  
 - Build useful tools & unique interfaces  
-- Eventually launch my own dev agency  
+- Eventually launch my own dev agency
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Imanet4&show_icons=true&theme=radical" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Imanet4&layout=compact&theme=radical" height="150"/>
+</p>
 
 ---
 
