@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hi, I'm Imane 👋
 
-<!--
-**Imanet4/Imanet4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a junior full-stack web developer in training—  
+Currently diving deep into the **MERN stack** (MongoDB, Express.js, React, Node.js).
 
-Here are some ideas to get you started:
+After years in customer service and operations,  
+I shifted to tech for its pace, creativity, and challenge.  
+My ADHD-brain thrives here. Constant learning. Endless problem-solving.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🔧 Tech I'm Working With
+- **Frontend:** React, JavaScript, HTML, CSS, Tailwind, Bootstrap  
+- **Backend:** Node.js, Express.js, REST APIs  
+- **Database:** MongoDB  
+- **Tools:** Git, GitHub, Figma, Canva  
+
+---
+
+### 🚀 Current Focus
+- Building responsive, real-world apps  
+- Collaborating on freelance & NDA projects  
+- Learning in public & seeking mentorship  
+
+---
+
+### 🎯 Goals
+- Land a dev internship or junior role  
+- Build useful tools & unique interfaces  
+- Eventually launch my own dev agency  
+
+---
+
+### 🤝 Let's Connect
+- [LinkedIn](https://www.linkedin.com/in/...) (insert your link)
+- [Email](mailto:your@email.com) (optional)
+
+Always open to chat with other devs, founders, or mentors!
